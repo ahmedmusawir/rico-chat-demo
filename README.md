@@ -1,4 +1,4 @@
-# starter-next13-pages-ts-v1
+# Rico Chat w/ OpenAi
 
 Next.js 13 w/ Typescript Rico Chat Demo based on OpenAI.
 
